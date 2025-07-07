@@ -1,0 +1,5 @@
+TODO List:
+- [ ] Explore new cybersecurity tools
+- [ ] Finish Python project
+- [ ] Read up on cloud security
+- [ ] Plan next blog post
