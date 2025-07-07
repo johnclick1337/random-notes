@@ -1,5 +1,16 @@
+
+# Random Notes & Snippets
+
+A disorganized collection of thoughts, code snippets, quick reminders, and ideas about various tech topics, personal projects, and learning resources. This is my digital scratchpad for anything that doesn't have a fixed home.
+
 TODO List:
 - [ ] Explore new cybersecurity tools
 - [ ] Finish Python project
 - [ ] Read up on cloud security
 - [ ] Plan next blog post
+- [ ] Research new JavaScript frameworks (maybe Svelte or Vue.js?)
+- [ ] Set up a local K8s environment for testing
+- [ ] Look into Raspberry Pi projects for home automation
+
+
+
